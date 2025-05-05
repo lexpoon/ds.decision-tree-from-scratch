@@ -1,0 +1,6 @@
+fastparquet
+matplotlib
+numpy
+polars
+pyarrow
+seaborn
